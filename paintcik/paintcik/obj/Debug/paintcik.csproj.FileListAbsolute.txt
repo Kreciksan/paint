@@ -1,0 +1,10 @@
+E:\Zadania_Programowanie\CS\paintcik\paintcik\bin\Debug\paintcik.exe.config
+E:\Zadania_Programowanie\CS\paintcik\paintcik\bin\Debug\paintcik.exe
+E:\Zadania_Programowanie\CS\paintcik\paintcik\bin\Debug\paintcik.pdb
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.csproj.AssemblyReference.cache
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.Form1.resources
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.Properties.Resources.resources
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.csproj.GenerateResource.cache
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.csproj.CoreCompileInputs.cache
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.exe
+E:\Zadania_Programowanie\CS\paintcik\paintcik\obj\Debug\paintcik.pdb
